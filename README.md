@@ -6,6 +6,6 @@ apart of the Apache Incubator.
 Getting Started
 ---------------
 * [Developing Aurora](docs/developing-aurora-scheduler.md)
-* [Deploying Aurora](docs/developing-aurora-scheduler.md)
+* [Deploying Aurora](docs/deploying-aurora-scheduler.md)
 * [Running a Local Cluster with Vagrant](docs/vagrant.md)
 * More docs coming soon!
